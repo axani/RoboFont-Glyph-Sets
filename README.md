@@ -12,3 +12,6 @@ A Collection of Glyph Sets to load into RoboFont
 2. Click the cog-icon in the left corner of the RoboFont sidebar
 3. Choose "Load sets"
 
+### Best practice
+Use the "All_sets"-file and delete the sets you don´t need.
+
