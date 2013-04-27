@@ -4,7 +4,7 @@
 A Collection of Glyph Sets to load into RoboFont
 
 ### Some things to keep in mind
-* To load a set you must have an font-window open
+* To load a set you must have a font-window open
 * Loading a set deletes all created sets
 
 ### Load/Import
