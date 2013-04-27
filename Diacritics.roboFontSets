@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>glyphNames</key>
+		<array>
+			<string>grave</string>
+			<string>acute</string>
+			<string>hungarumlaut</string>
+			<string>dotaccent</string>
+			<string>dieresis</string>
+			<string>circumflex</string>
+			<string>caron</string>
+			<string>macron</string>
+			<string>tilde</string>
+			<string>breve</string>
+			<string>ring</string>
+			<string>caronquoteleft</string>
+			<string>caronquoteright</string>
+			<string>commaaccent</string>
+			<string>cedilla</string>
+			<string>ogonek</string>
+		</array>
+		<key>query</key>
+		<string>Name IN {"grave", "acute", "hungarumlaut", "dotaccent", "dieresis", "circumflex", "caron", "macron", "tilde", "breve", "ring", "caronquoteleft", "caronquoteright", "commaaccent", "cedilla", "ogonek"}</string>
+		<key>smartSetName</key>
+		<string>Diacritics</string>
+	</dict>
+</array>
+</plist>

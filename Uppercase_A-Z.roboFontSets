@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>glyphNames</key>
+		<array>
+			<string>A</string>
+			<string>B</string>
+			<string>C</string>
+			<string>D</string>
+			<string>E</string>
+			<string>F</string>
+			<string>G</string>
+			<string>H</string>
+			<string>I</string>
+			<string>J</string>
+			<string>K</string>
+			<string>L</string>
+			<string>M</string>
+			<string>N</string>
+			<string>O</string>
+			<string>P</string>
+			<string>Q</string>
+			<string>R</string>
+			<string>S</string>
+			<string>T</string>
+			<string>U</string>
+			<string>V</string>
+			<string>W</string>
+			<string>X</string>
+			<string>Y</string>
+			<string>Z</string>
+		</array>
+		<key>query</key>
+		<string>Name IN {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"}</string>
+		<key>smartSetName</key>
+		<string>A-Z</string>
+		<key>uniqueKey</key>
+		<string>140722709833680</string>
+	</dict>
+</array>
+</plist>

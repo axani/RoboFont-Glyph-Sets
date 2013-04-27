@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>glyphNames</key>
+		<array>
+			<string>period</string>
+			<string>comma</string>
+			<string>colon</string>
+			<string>semicolon</string>
+			<string>exclam</string>
+			<string>question</string>
+			<string>exclamdown</string>
+			<string>questiondown</string>
+			<string>hyphen</string>
+			<string>endash</string>
+			<string>emdash</string>
+			<string>underscore</string>
+			<string>bar</string>
+			<string>brokenbar</string>
+			<string>dagger</string>
+			<string>daggerdbl</string>
+			<string>parenleft</string>
+			<string>parenright</string>
+			<string>bracketleft</string>
+			<string>bracketright</string>
+			<string>braceleft</string>
+			<string>braceright</string>
+			<string>slash</string>
+			<string>backslash</string>
+			<string>quotesinglbase</string>
+			<string>quotedblbase</string>
+			<string>quoteleft</string>
+			<string>quotedblleft</string>
+			<string>quoteright</string>
+			<string>quotedblright</string>
+			<string>guilsinglleft</string>
+			<string>guilsinglright</string>
+			<string>guillemotleft</string>
+			<string>guillemotright</string>
+			<string>quotesingle</string>
+			<string>quotedbl</string>
+			<string>asterisk</string>
+			<string>degree</string>
+			<string>bullet</string>
+			<string>periodcentered</string>
+			<string>ellipsis</string>
+			<string>paragraph</string>
+			<string>ampersand</string>
+			<string>section</string>
+		</array>
+		<key>query</key>
+		<string>Name IN {"period", "comma", "colon", "semicolon", "exclam", "question", "exclamdown", "questiondown", "hyphen", "endash", "emdash", "underscore", "bar", "brokenbar", "dagger", "daggerdbl", "parenleft", "parenright", "bracketleft", "bracketright", "braceleft", "braceright", "slash", "backslash", "quotesinglbase", "quotedblbase", "quoteleft", "quotedblleft", "quoteright", "quotedblright", "guilsinglleft", "guilsinglright", "guillemotleft", "guillemotright", "quotesingle", "quotedbl", "asterisk", "degree", "bullet", "periodcentered", "ellipsis", "paragraph", "ampersand", "section"}</string>
+		<key>smartSetName</key>
+		<string>Interpunction</string>
+		<key>uniqueKey</key>
+		<string>140219247457440</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>glyphNames</key>
+		<array>
+			<string>plus</string>
+			<string>minus</string>
+			<string>multiply</string>
+			<string>divide</string>
+			<string>equal</string>
+			<string>less</string>
+			<string>greater</string>
+			<string>plusminus</string>
+			<string>lessequal</string>
+			<string>greaterequal</string>
+			<string>notequal</string>
+			<string>logicalnot</string>
+			<string>asciitilde</string>
+			<string>approxequal</string>
+			<string>infinity</string>
+			<string>numbersign</string>
+			<string>radical</string>
+			<string>lozenge</string>
+			<string>Delta</string>
+			<string>Omega</string>
+			<string>summation</string>
+			<string>partialdiff</string>
+			<string>integral</string>
+			<string>product</string>
+			<string>pi</string>
+			<string>mu</string>
+		</array>
+		<key>query</key>
+		<string>Name IN {"plus", "minus", "multiply", "divide", "equal", "less", "greater", "plusminus", "lessequal", "greaterequal", "notequal", "logicalnot", "asciitilde", "approxequal", "infinity", "numbersign", "radical", "lozenge", "Delta", "Omega", "summation", "partialdiff", "integral", "product", "pi", "mu"}</string>
+		<key>smartSetName</key>
+		<string>Mathematical</string>
+		<key>uniqueKey</key>
+		<string>140403927394784</string>
+	</dict>
+</array>
+</plist>
