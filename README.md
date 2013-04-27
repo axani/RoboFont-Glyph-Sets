@@ -1,4 +1,14 @@
-RoboFont-Glyph-Sets
+## RoboFont-Glyph-Sets
 ===================
 
-Collection of Glyph Sets to import into RoboFont
+A Collection of Glyph Sets to load into RoboFont
+
+### Some things to keep in mind
+* To load a set you must have an font-window open
+* Loading a set deletes all created sets
+
+### Load/Import
+1. Download the preferred set(s)
+2. Click the cog-icon in the left corner of the RoboFont sidebar
+3. Choose "Load sets"
+
